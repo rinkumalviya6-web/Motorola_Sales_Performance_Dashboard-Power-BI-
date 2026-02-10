@@ -1,8 +1,6 @@
 # Motorola Sales Performance Dashboard (Power BI)
 Interactive Power BI dashboard analyzing mobile sales performance with insights on brands, models, customer ratings, cities, and payment methods.
 
-
-
 ## Project Overview
 This project presents an interactive Power BI dashboard designed to analyze Motorola mobile sales performance.
 The dashboard provides a comprehensive view of sales, quantity, transactions, customer ratings, and regional
