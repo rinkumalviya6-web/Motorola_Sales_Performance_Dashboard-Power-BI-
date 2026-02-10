@@ -60,7 +60,7 @@ The dataset includes mobile sales transaction data with details such as:
   - Dynamic visuals responding to user selections
 
 ## Dashboard Preview
-![Motorola Sales Dashboard](dashboard.png)
+![Motorola Sales Dashboard](dashboard1.png)
 
 ## Key Insights
 - Apple and Samsung contribute the highest share of total sales.
